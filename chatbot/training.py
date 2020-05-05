@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 
 from chatbot.conf import MODEL_WEIGHTS
 from chatbot.intents import INTENT
-from chatbot.classification import AbstractML
+from chatbot.dialog import AbstractML
 
 
 class Training(AbstractML):
