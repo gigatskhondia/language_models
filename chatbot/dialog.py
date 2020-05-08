@@ -90,3 +90,4 @@ if __name__ == "__main__":
     cl = Classifier()
     print(cl.response('we want to rent a moped'))
     print(cl.response('today'))
+
