@@ -1,6 +1,6 @@
-# Pseudo large language models
+# Chatbot
 
-This repository is an attempt to create pseudo large language models at the compute cost of shallow learning. It also contains my other experiments with natural language models.
+This repository contains simple chatbots.
 
 To keep up to date with the project please check [Gigala](https://www.facebook.com/GigaTsk) page.
 
