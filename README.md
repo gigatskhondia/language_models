@@ -1,7 +1,9 @@
 # Language models 
 
-To keep up to date with the project please check [Gigala](https://www.facebook.com/GigaTsk) page.
+To keep up to date with the project please check [Gigala](https://gigala.io/) page.
 
-#### [Contact](https://www.facebook.com/GigaTsk) me if you are interested in any of my solutions. I can scale, tailor and optimize them to your project!
 
-Do you like the project? Star me to support it!
+#### How to support: ####
+* Star this project
+* [Sponsor](https://www.paypal.me/gigatskhondia) this project 
+* [Contact](https://gigala.io/) me if you are interested in investing in my research or adapting my solutions to your project
