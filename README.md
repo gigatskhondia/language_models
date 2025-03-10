@@ -1,6 +1,6 @@
 # Language models 
 
-In this repo you can find my code for small size old fashioned language models.
+In this repo you can find my code for small size language models.
 
 To keep up to date with the project please check [Gigala](https://gigala.io/) page.
 
